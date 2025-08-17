@@ -1,8 +1,3 @@
-Here’s the **README.md** file for your current `pdfplumber`-based script:
-
----
-
-````markdown
 # PDF to TXT Converter (Python – pdfplumber)
 
 This Python script converts one or more PDF files into `.txt` files using the **pdfplumber** library.  
